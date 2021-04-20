@@ -1,4 +1,4 @@
-package com.alaphacoder.springsecurityjdbcdemo;
+package com.alphacoder.springsecurityjdbcdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

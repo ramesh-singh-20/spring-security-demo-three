@@ -1,4 +1,4 @@
-package com.alaphacoder.springsecurityjdbcdemo;
+package com.alphacoder.springsecurityjdbcdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
